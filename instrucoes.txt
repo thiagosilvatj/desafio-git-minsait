@@ -1,1 +1,1 @@
-Desafio Git para testar habilidades
+Este é um projeto de desafio para praticar comandos Git da Minsait
